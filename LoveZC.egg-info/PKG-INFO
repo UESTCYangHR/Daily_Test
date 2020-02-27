@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: LoveZC
+Version: 0.0.1
+Summary: May there be years to look back on, and with deep feelings to white head
+Home-page: https://github.com/UESTCYangHR/Daily_Test/blob/master/LoveZC.zip
+Author: Peter Young
+Author-email: yhr_uestc@163.com
+License: MIT
+Description: UNKNOWN
+Keywords: Love ZC
+Platform: UNKNOWN
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Provides-Extra: test
